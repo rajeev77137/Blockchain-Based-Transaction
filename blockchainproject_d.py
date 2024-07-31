@@ -37,6 +37,5 @@ def makeTransaction(maxValue=3):
 
 txnBuffer = [makeTransaction() for i in range(30)]
 
-# WAIT WAIT Project Code is longer and detailed explained.
-# Mail me to get Full Project Code at [ vatshayan007@gmail.com ]
+
 
